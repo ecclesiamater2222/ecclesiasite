@@ -1,0 +1,928 @@
+{
+  "contact_email": "info@madrice.it",
+  "facebook": "https://www.facebook.com/p/Associazione-Ecclesia-Mater-61557062860610/",
+  "instagram": "",
+  "youtube": "",
+  "pages": [
+    {
+      "route": "chi-siamo.html",
+      "label": "Chi siamo",
+      "texts": [
+        {
+          "index": 0,
+          "label": "La nostra identità",
+          "value": "La nostra identità"
+        },
+        {
+          "index": 1,
+          "label": "Una comunità.Molte voci.",
+          "value": "Una comunità.Molte voci."
+        },
+        {
+          "index": 2,
+          "label": "Ecclesia Mater è una realtà culturale e musicale di San Cataldo. Il suo can",
+          "value": "Ecclesia Mater è una realtà culturale e musicale di San Cataldo. Il suo canto nasce dall’incontro tra persone, sensibilità ed esperienze."
+        },
+        {
+          "index": 3,
+          "label": "Ecclesia Mater",
+          "value": "Ecclesia Mater"
+        },
+        {
+          "index": 4,
+          "label": "La musica comelinguaggio comune.",
+          "value": "La musica comelinguaggio comune."
+        },
+        {
+          "index": 5,
+          "label": "La Corale Ecclesia Mater è legata alla vita musicale e liturgica della Chie",
+          "value": "La Corale Ecclesia Mater è legata alla vita musicale e liturgica della Chiesa Madre di San Cataldo, in provincia di Caltanissetta. Le fonti pubbliche testimoniano un percorso fatto di celebrazioni, concerti, rassegne e collaborazioni con altre realtà corali."
+        },
+        {
+          "index": 6,
+          "label": "La nostra proposta di partecipazione è aperta a bambini, ragazzi e adulti, ",
+          "value": "La nostra proposta di partecipazione è aperta a bambini, ragazzi e adulti, anche senza precedente esperienza musicale."
+        },
+        {
+          "index": 7,
+          "label": "La direzione del coro è documentata in numerose notizie pubbliche a cura de",
+          "value": "La direzione del coro è documentata in numerose notizie pubbliche a cura della maestra Monica Battaglia. Per conoscere i gruppi e gli orari delle prove, scrivici dalla pagina Contatti."
+        },
+        {
+          "index": 8,
+          "label": "Cantare in coro",
+          "value": "Cantare in coro"
+        },
+        {
+          "index": 9,
+          "label": "Il nostro percorso",
+          "value": "Il nostro percorso"
+        },
+        {
+          "index": 10,
+          "label": "Dalla Chiesa Madreal territorio, insieme.",
+          "value": "Dalla Chiesa Madreal territorio, insieme."
+        },
+        {
+          "index": 11,
+          "label": "Nel settembre 2022 la corale anima una celebrazione al Santuario di Altavil",
+          "value": "Nel settembre 2022 la corale anima una celebrazione al Santuario di Altavilla Milicia, trasmessa su Canale 5. L’anno seguente promuove a San Cataldo la prima rassegna di voci bianche “Festival a Cuori Uniti”."
+        },
+        {
+          "index": 12,
+          "label": "La manifestazione prosegue nel 2024 e nel 2025, affiancandosi a concerti e ",
+          "value": "La manifestazione prosegue nel 2024 e nel 2025, affiancandosi a concerti e incontri corali in Sicilia. Sono tappe documentate da articoli e comunicazioni pubbliche, non una biografia esaustiva dell’associazione."
+        },
+        {
+          "index": 13,
+          "label": "Le persone al centro",
+          "value": "Le persone al centro"
+        },
+        {
+          "index": 14,
+          "label": "Piccole voci, grandi possibilità.",
+          "value": "Piccole voci, grandi possibilità."
+        },
+        {
+          "index": 15,
+          "label": "La dimensione intergenerazionale è una parte essenziale della nostra idea d",
+          "value": "La dimensione intergenerazionale è una parte essenziale della nostra idea di comunità."
+        },
+        {
+          "index": 16,
+          "label": "Imparare insieme",
+          "value": "Imparare insieme"
+        },
+        {
+          "index": 17,
+          "label": "Il canto corale come occasione per scoprire la propria voce, collaborare e ",
+          "value": "Il canto corale come occasione per scoprire la propria voce, collaborare e crescere."
+        },
+        {
+          "index": 18,
+          "label": "Restare insieme",
+          "value": "Restare insieme"
+        },
+        {
+          "index": 19,
+          "label": "Una rete di persone che sostiene eventi, prove, progetti e incontri anche f",
+          "value": "Una rete di persone che sostiene eventi, prove, progetti e incontri anche fuori dal palco."
+        },
+        {
+          "index": 20,
+          "label": "Una voce nuovapotrebbe essere la tua.",
+          "value": "Una voce nuovapotrebbe essere la tua."
+        }
+      ],
+      "images": [
+        {
+          "index": 0,
+          "label": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali",
+          "image": "",
+          "alt": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali"
+        }
+      ]
+    },
+    {
+      "route": "contatti.html",
+      "label": "Contatti",
+      "texts": [
+        {
+          "index": 0,
+          "label": "Contatti",
+          "value": "Contatti"
+        },
+        {
+          "index": 1,
+          "label": "Le belle storieiniziano parlando.",
+          "value": "Le belle storieiniziano parlando."
+        },
+        {
+          "index": 2,
+          "label": "Hai una domanda, vuoi cantare o desideri collaborare? Troviamo insieme il m",
+          "value": "Hai una domanda, vuoi cantare o desideri collaborare? Troviamo insieme il modo migliore per conoscerci."
+        },
+        {
+          "index": 3,
+          "label": "Ci trovianche online.",
+          "value": "Ci trovianche online."
+        },
+        {
+          "index": 4,
+          "label": "Per scrivere direttamente all'associazione, utilizza la pagina Facebook.",
+          "value": "Per scrivere direttamente all'associazione, utilizza la pagina Facebook."
+        },
+        {
+          "index": 5,
+          "label": "Recapito pubblico della Chiesa Madre, indicato nella scheda parrocchiale de",
+          "value": "Recapito pubblico della Chiesa Madre, indicato nella scheda parrocchiale della corale (non è una casella email esclusiva dell'associazione)."
+        },
+        {
+          "index": 6,
+          "label": "Telefono della segreteria parrocchiale: 0934 587018",
+          "value": "Telefono della segreteria parrocchiale: 0934 587018"
+        },
+        {
+          "index": 7,
+          "label": "San Cataldo,nel cuore della Sicilia.",
+          "value": "San Cataldo,nel cuore della Sicilia."
+        },
+        {
+          "index": 8,
+          "label": "Le attività corali sono legate alla Chiesa Madre e alla vita musicale citta",
+          "value": "Le attività corali sono legate alla Chiesa Madre e alla vita musicale cittadina. Le sedi e gli orari delle prove vanno confermati prima della visita."
+        },
+        {
+          "index": 9,
+          "label": "Piazza Madrice93017 San Cataldo (CL)Italia",
+          "value": "Piazza Madrice93017 San Cataldo (CL)Italia"
+        },
+        {
+          "index": 10,
+          "label": "Una voce nuovapotrebbe essere la tua.",
+          "value": "Una voce nuovapotrebbe essere la tua."
+        }
+      ],
+      "images": []
+    },
+    {
+      "route": "eventi.html",
+      "label": "Eventi",
+      "texts": [
+        {
+          "index": 0,
+          "label": "Eventi e concerti",
+          "value": "Eventi e concerti"
+        },
+        {
+          "index": 1,
+          "label": "Il tempo scanditodalle voci.",
+          "value": "Il tempo scanditodalle voci."
+        },
+        {
+          "index": 2,
+          "label": "Una cronologia documentata delle rassegne, dei concerti e delle iniziative ",
+          "value": "Una cronologia documentata delle rassegne, dei concerti e delle iniziative della corale. Eventi realizzati e annunci vengono distinti con precisione."
+        },
+        {
+          "index": 3,
+          "label": "Ragusa InCanto — V rassegna",
+          "value": "Ragusa InCanto — V rassegna"
+        },
+        {
+          "index": 4,
+          "label": "La Corale Ecclesia Mater partecipa alla rassegna promossa da Cantus Novo ne",
+          "value": "La Corale Ecclesia Mater partecipa alla rassegna promossa da Cantus Novo nella Cattedrale di San Giovanni Battista a Ragusa. La fotografia è del momento finale collettivo."
+        },
+        {
+          "index": 5,
+          "label": "Festival a Cori Uniti — III edizione",
+          "value": "Festival a Cori Uniti — III edizione"
+        },
+        {
+          "index": 6,
+          "label": "La terza edizione della rassegna di voci bianche presso la Chiesa Madre è a",
+          "value": "La terza edizione della rassegna di voci bianche presso la Chiesa Madre è annunciata dalla stampa locale, con la partecipazione prevista di 170 bambini."
+        },
+        {
+          "index": 7,
+          "label": "Giubileo delle Corali",
+          "value": "Giubileo delle Corali"
+        },
+        {
+          "index": 8,
+          "label": "Una notizia del 2025 annuncia la partecipazione della corale al Giubileo de",
+          "value": "Una notizia del 2025 annuncia la partecipazione della corale al Giubileo delle Corali. La fotografia allegata è un ritratto del gruppo e non prova che sia stata scattata a Roma."
+        },
+        {
+          "index": 9,
+          "label": "Festival a Cori Uniti — II edizione",
+          "value": "Festival a Cori Uniti — II edizione"
+        },
+        {
+          "index": 10,
+          "label": "La seconda edizione della rassegna di voci bianche, ospitata nella Chiesa M",
+          "value": "La seconda edizione della rassegna di voci bianche, ospitata nella Chiesa Madre, viene annunciata con cinque cori e 150 bambini attesi."
+        },
+        {
+          "index": 11,
+          "label": "Festival a Cuori Uniti — I edizione",
+          "value": "Festival a Cuori Uniti — I edizione"
+        },
+        {
+          "index": 12,
+          "label": "Prima rassegna corale dedicata alle voci bianche, con sette cori provenient",
+          "value": "Prima rassegna corale dedicata alle voci bianche, con sette cori provenienti da realtà scolastiche e associative del territorio."
+        },
+        {
+          "index": 13,
+          "label": "È ancora Natale",
+          "value": "È ancora Natale"
+        },
+        {
+          "index": 14,
+          "label": "Il programma presentato dall’associazione prevede l’incontro fra Piccole vo",
+          "value": "Il programma presentato dall’associazione prevede l’incontro fra Piccole voci Ecclesia Mater, corale polifonica e orchestra di fiati Santa Cecilia nella Chiesa Madre."
+        },
+        {
+          "index": 15,
+          "label": "Una celebrazione in diretta su Canale 5",
+          "value": "Una celebrazione in diretta su Canale 5"
+        },
+        {
+          "index": 16,
+          "label": "La Corale Ecclesia Mater anima la Santa Messa presso il Santuario della Mad",
+          "value": "La Corale Ecclesia Mater anima la Santa Messa presso il Santuario della Madonna della Milicia, trasmessa su Canale 5. Tre fotografie dell’esperienza sono pubblicate da Il Fatto Nisseno."
+        },
+        {
+          "index": 17,
+          "label": "I contenuti sono verificati tramite fonti pubbliche. La corrispondenza fra ",
+          "value": "I contenuti sono verificati tramite fonti pubbliche. La corrispondenza fra locandina, annuncio ed effettivo svolgimento è riportata nelle schede. Il programma dei prossimi concerti sarà pubblicato dopo conferma dell'associazione."
+        },
+        {
+          "index": 18,
+          "label": "Una voce nuovapotrebbe essere la tua.",
+          "value": "Una voce nuovapotrebbe essere la tua."
+        }
+      ],
+      "images": [
+        {
+          "index": 0,
+          "label": "Ragusa InCanto — V rassegna",
+          "image": "",
+          "alt": "Ragusa InCanto — V rassegna"
+        },
+        {
+          "index": 1,
+          "label": "Locandina del Festival a Cori Uniti, terza rassegna di voci bianche, 15 dicembre 2025 alle 19.30, Chiesa Madre di San Cataldo",
+          "image": "",
+          "alt": "Locandina del Festival a Cori Uniti, terza rassegna di voci bianche, 15 dicembre 2025 alle 19.30, Chiesa Madre di San Cataldo"
+        },
+        {
+          "index": 2,
+          "label": "Giubileo delle Corali",
+          "image": "",
+          "alt": "Giubileo delle Corali"
+        },
+        {
+          "index": 3,
+          "label": "Festival a Cori Uniti — II edizione",
+          "image": "",
+          "alt": "Festival a Cori Uniti — II edizione"
+        },
+        {
+          "index": 4,
+          "label": "Festival a Cuori Uniti — I edizione",
+          "image": "",
+          "alt": "Festival a Cuori Uniti — I edizione"
+        },
+        {
+          "index": 5,
+          "label": "Una celebrazione in diretta su Canale 5",
+          "image": "",
+          "alt": "Una celebrazione in diretta su Canale 5"
+        }
+      ]
+    },
+    {
+      "route": "galleria.html",
+      "label": "Galleria",
+      "texts": [
+        {
+          "index": 0,
+          "label": "Archivio visivo",
+          "value": "Archivio visivo"
+        },
+        {
+          "index": 1,
+          "label": "I ricordi hannouna voce.",
+          "value": "I ricordi hannouna voce."
+        },
+        {
+          "index": 2,
+          "label": "Fotografie e locandine autentiche, ordinate per evento. Non immagini generi",
+          "value": "Fotografie e locandine autentiche, ordinate per evento. Non immagini generiche: materiali collegati a fonti identificabili."
+        },
+        {
+          "index": 3,
+          "label": "Festival a Cori Uniti — III edizione",
+          "value": "Festival a Cori Uniti — III edizione"
+        },
+        {
+          "index": 4,
+          "label": "15 dicembre 2025 · Chiesa Madre · ore 19.30",
+          "value": "15 dicembre 2025 · Chiesa Madre · ore 19.30"
+        },
+        {
+          "index": 5,
+          "label": "Ragusa InCanto — V rassegna",
+          "value": "Ragusa InCanto — V rassegna"
+        },
+        {
+          "index": 6,
+          "label": "29 novembre 2025 · fotografia collettiva",
+          "value": "29 novembre 2025 · fotografia collettiva"
+        },
+        {
+          "index": 7,
+          "label": "Corale Ecclesia Mater · ritratto",
+          "value": "Corale Ecclesia Mater · ritratto"
+        },
+        {
+          "index": 8,
+          "label": "Fotografia di repertorio pubblicata nel 2025 a corredo di un articolo sul G",
+          "value": "Fotografia di repertorio pubblicata nel 2025 a corredo di un articolo sul Giubileo"
+        },
+        {
+          "index": 9,
+          "label": "Festival a Cori Uniti — II edizione",
+          "value": "Festival a Cori Uniti — II edizione"
+        },
+        {
+          "index": 10,
+          "label": "14 dicembre 2024 · locandina",
+          "value": "14 dicembre 2024 · locandina"
+        },
+        {
+          "index": 11,
+          "label": "Festival a Cuori Uniti — I edizione",
+          "value": "Festival a Cuori Uniti — I edizione"
+        },
+        {
+          "index": 12,
+          "label": "7 settembre 2023 · locandina",
+          "value": "7 settembre 2023 · locandina"
+        },
+        {
+          "index": 13,
+          "label": "Altavilla Milicia · celebrazione",
+          "value": "Altavilla Milicia · celebrazione"
+        },
+        {
+          "index": 14,
+          "label": "25 settembre 2022 · tre fotografie",
+          "value": "25 settembre 2022 · tre fotografie"
+        },
+        {
+          "index": 15,
+          "label": "La locandina della terza rassegna proviene dai materiali dell’associazione.",
+          "value": "La locandina della terza rassegna proviene dai materiali dell’associazione. Le altre immagini sono ospitate dalle testate indicate nelle didascalie. Ogni collegamento porta alla pubblicazione originale."
+        },
+        {
+          "index": 16,
+          "label": "Ascolta e guarda",
+          "value": "Ascolta e guarda"
+        },
+        {
+          "index": 17,
+          "label": "La musica non siferma in una foto.",
+          "value": "La musica non siferma in una foto."
+        },
+        {
+          "index": 18,
+          "label": "Il canto del mare",
+          "value": "Il canto del mare"
+        },
+        {
+          "index": 19,
+          "label": "Una pubblicazione video che menziona la Corale Ecclesia Mater di San Catald",
+          "value": "Una pubblicazione video che menziona la Corale Ecclesia Mater di San Cataldo e la maestra Monica Battaglia. Il contenuto è ospitato su Facebook e potrebbe richiedere l'accesso alla piattaforma."
+        },
+        {
+          "index": 20,
+          "label": "Il player viene richiesto a Facebook soltanto dopo un tuo clic; se non è ri",
+          "value": "Il player viene richiesto a Facebook soltanto dopo un tuo clic; se non è riproducibile qui, apri la fonte originale."
+        },
+        {
+          "index": 21,
+          "label": "La partecipazione a una celebrazione trasmessa su Canale 5 è documentata da",
+          "value": "La partecipazione a una celebrazione trasmessa su Canale 5 è documentata dalla stampa; non è stata individuata una registrazione pubblica riproducibile da integrare."
+        },
+        {
+          "index": 22,
+          "label": "Una voce nuovapotrebbe essere la tua.",
+          "value": "Una voce nuovapotrebbe essere la tua."
+        }
+      ],
+      "images": [
+        {
+          "index": 0,
+          "label": "Locandina del Festival a Cori Uniti, terza rassegna di voci bianche, 15 dicembre 2025 alle 19.30, Chiesa Madre di San Cataldo",
+          "image": "",
+          "alt": "Locandina del Festival a Cori Uniti, terza rassegna di voci bianche, 15 dicembre 2025 alle 19.30, Chiesa Madre di San Cataldo"
+        },
+        {
+          "index": 1,
+          "label": "Momento finale della rassegna, immagine collettiva — Ragusa InCanto — V rassegna corale",
+          "image": "",
+          "alt": "Momento finale della rassegna, immagine collettiva — Ragusa InCanto — V rassegna corale"
+        },
+        {
+          "index": 2,
+          "label": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali",
+          "image": "",
+          "alt": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali"
+        },
+        {
+          "index": 3,
+          "label": "Locandina della II edizione — Festival a Cori Uniti — II edizione",
+          "image": "",
+          "alt": "Locandina della II edizione — Festival a Cori Uniti — II edizione"
+        },
+        {
+          "index": 4,
+          "label": "Locandina della rassegna 2023 — Festival a Cuori Uniti — I edizione",
+          "image": "",
+          "alt": "Locandina della rassegna 2023 — Festival a Cuori Uniti — I edizione"
+        },
+        {
+          "index": 5,
+          "label": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
+          "image": "",
+          "alt": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
+        },
+        {
+          "index": 6,
+          "label": "Fotografia 2 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
+          "image": "",
+          "alt": "Fotografia 2 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
+        },
+        {
+          "index": 7,
+          "label": "Fotografia 3 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
+          "image": "",
+          "alt": "Fotografia 3 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
+        },
+        {
+          "index": 8,
+          "label": "La Corale Ecclesia Mater durante l'esperienza ad Altavilla Milicia",
+          "image": "",
+          "alt": "La Corale Ecclesia Mater durante l'esperienza ad Altavilla Milicia"
+        }
+      ]
+    },
+    {
+      "route": "index.html",
+      "label": "Home",
+      "texts": [
+        {
+          "index": 0,
+          "label": "La tua voceha un posto tra noi.",
+          "value": "La tua voceha un posto tra noi."
+        },
+        {
+          "index": 1,
+          "label": "Alla Chiesa Madre di San Cataldo cantano insieme bambini, ragazzi e adulti.",
+          "value": "Alla Chiesa Madre di San Cataldo cantano insieme bambini, ragazzi e adulti. Se è la tua prima esperienza in un coro, sei nel posto giusto."
+        },
+        {
+          "index": 2,
+          "label": "La corale, in una fotografia pubblicata dal Fatto Nisseno ↗",
+          "value": "La corale, in una fotografia pubblicata dal Fatto Nisseno ↗"
+        },
+        {
+          "index": 3,
+          "label": "Non hai mai cantato in un coro? È il momento perfetto per cominciare.",
+          "value": "Non hai mai cantato in un coro? È il momento perfetto per cominciare."
+        },
+        {
+          "index": 4,
+          "label": "Partecipa",
+          "value": "Partecipa"
+        },
+        {
+          "index": 5,
+          "label": "Tre modi per essere parte della musica.",
+          "value": "Tre modi per essere parte della musica."
+        },
+        {
+          "index": 6,
+          "label": "Il nostro primo desiderio è incontrare nuove persone. C’è spazio per chi ca",
+          "value": "Il nostro primo desiderio è incontrare nuove persone. C’è spazio per chi canta, per chi dà una mano e per chi sceglie di sostenere le iniziative."
+        },
+        {
+          "index": 7,
+          "label": "Cantacon noi.",
+          "value": "Cantacon noi."
+        },
+        {
+          "index": 8,
+          "label": "Una porta aperta, anche se non hai mai studiato musica.",
+          "value": "Una porta aperta, anche se non hai mai studiato musica."
+        },
+        {
+          "index": 9,
+          "label": "Diventavolontario.",
+          "value": "Diventavolontario."
+        },
+        {
+          "index": 10,
+          "label": "Metti a disposizione il tuo tempo e le tue idee.",
+          "value": "Metti a disposizione il tuo tempo e le tue idee."
+        },
+        {
+          "index": 11,
+          "label": "Sostienila musica.",
+          "value": "Sostienila musica."
+        },
+        {
+          "index": 12,
+          "label": "Aiuta il canto a raggiungere sempre più persone.",
+          "value": "Aiuta il canto a raggiungere sempre più persone."
+        },
+        {
+          "index": 13,
+          "label": "La nostra storia",
+          "value": "La nostra storia"
+        },
+        {
+          "index": 14,
+          "label": "C’è una forzaspeciale nelcantare insieme.",
+          "value": "C’è una forzaspeciale nelcantare insieme."
+        },
+        {
+          "index": 15,
+          "label": "Ecclesia Mater vive a San Cataldo, nel cuore della Sicilia. La sua storia s",
+          "value": "Ecclesia Mater vive a San Cataldo, nel cuore della Sicilia. La sua storia si intreccia con la Chiesa Madre, la musica corale, il repertorio sacro e occasioni d’incontro che attraversano il territorio."
+        },
+        {
+          "index": 16,
+          "label": "Dai piccoli cantori alle voci adulte, crediamo nella bellezza di ascoltarsi",
+          "value": "Dai piccoli cantori alle voci adulte, crediamo nella bellezza di ascoltarsi e crescere insieme, una prova dopo l’altra."
+        },
+        {
+          "index": 17,
+          "label": "Momenti da ricordare",
+          "value": "Momenti da ricordare"
+        },
+        {
+          "index": 18,
+          "label": "La nostra storia,in immagini.",
+          "value": "La nostra storia,in immagini."
+        },
+        {
+          "index": 19,
+          "label": "Le fotografie delle celebrazioni, le locandine delle rassegne e le voci dei",
+          "value": "Le fotografie delle celebrazioni, le locandine delle rassegne e le voci dei nostri concerti."
+        },
+        {
+          "index": 20,
+          "label": "Incontri e concerti",
+          "value": "Incontri e concerti"
+        },
+        {
+          "index": 21,
+          "label": "Le voci lasciano una traccia.",
+          "value": "Le voci lasciano una traccia."
+        },
+        {
+          "index": 22,
+          "label": "Dalle rassegne di voci bianche agli incontri con altri cori siciliani. Sfog",
+          "value": "Dalle rassegne di voci bianche agli incontri con altri cori siciliani. Sfoglia i programmi e i racconti dei concerti."
+        },
+        {
+          "index": 23,
+          "label": "La prossima bella storiapotremmo scriverla insieme.",
+          "value": "La prossima bella storiapotremmo scriverla insieme."
+        },
+        {
+          "index": 24,
+          "label": "Una voce nuovapotrebbe essere la tua.",
+          "value": "Una voce nuovapotrebbe essere la tua."
+        }
+      ],
+      "images": [
+        {
+          "index": 0,
+          "label": "La Corale Ecclesia Mater riunita in una chiesa, fotografia pubblicata dal Fatto Nisseno",
+          "image": "",
+          "alt": "La Corale Ecclesia Mater riunita in una chiesa, fotografia pubblicata dal Fatto Nisseno"
+        },
+        {
+          "index": 1,
+          "label": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
+          "image": "",
+          "alt": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
+        },
+        {
+          "index": 2,
+          "label": "Fotografia 3 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
+          "image": "",
+          "alt": "Fotografia 3 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
+        },
+        {
+          "index": 3,
+          "label": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali",
+          "image": "",
+          "alt": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali"
+        },
+        {
+          "index": 4,
+          "label": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
+          "image": "",
+          "alt": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
+        },
+        {
+          "index": 5,
+          "label": "Locandina della rassegna 2023 — Festival a Cuori Uniti — I edizione",
+          "image": "",
+          "alt": "Locandina della rassegna 2023 — Festival a Cuori Uniti — I edizione"
+        },
+        {
+          "index": 6,
+          "label": "Momento finale della rassegna, immagine collettiva — Ragusa InCanto — V rassegna corale",
+          "image": "",
+          "alt": "Momento finale della rassegna, immagine collettiva — Ragusa InCanto — V rassegna corale"
+        }
+      ]
+    },
+    {
+      "route": "partecipa.html",
+      "label": "Partecipa",
+      "texts": [
+        {
+          "index": 0,
+          "label": "Partecipa",
+          "value": "Partecipa"
+        },
+        {
+          "index": 1,
+          "label": "C’è postoanche per te.",
+          "value": "C’è postoanche per te."
+        },
+        {
+          "index": 2,
+          "label": "Non devi essere un professionista. Per avvicinarti alla musica, a volte, ba",
+          "value": "Non devi essere un professionista. Per avvicinarti alla musica, a volte, basta solo fare il primo passo."
+        },
+        {
+          "index": 3,
+          "label": "La tua voceci interessa.",
+          "value": "La tua voceci interessa."
+        },
+        {
+          "index": 4,
+          "label": "Accogliamo persone di tutte le età: bambini, ragazzi e adulti. Anche chi no",
+          "value": "Accogliamo persone di tutte le età: bambini, ragazzi e adulti. Anche chi non ha mai cantato in un coro può chiedere di avvicinarsi alle nostre attività."
+        },
+        {
+          "index": 5,
+          "label": "Dietro ogni nota,c’è qualcuno.",
+          "value": "Dietro ogni nota,c’è qualcuno."
+        },
+        {
+          "index": 6,
+          "label": "Concerti, rassegne e attività associative prendono forma grazie alla collab",
+          "value": "Concerti, rassegne e attività associative prendono forma grazie alla collaborazione. Cerchiamo persone interessate a offrire competenze, tempo e idee."
+        },
+        {
+          "index": 7,
+          "label": "Primo contatto",
+          "value": "Primo contatto"
+        },
+        {
+          "index": 8,
+          "label": "Raccontaci chi sei.",
+          "value": "Raccontaci chi sei."
+        },
+        {
+          "index": 9,
+          "label": "Compila i campi e prepareremo un messaggio da inviare con la tua applicazio",
+          "value": "Compila i campi e prepareremo un messaggio da inviare con la tua applicazione email alla segreteria parrocchiale, recapito pubblico indicato per la corale."
+        },
+        {
+          "index": 10,
+          "label": "Il pulsante apre una bozza nella tua app di posta. Puoi rileggerla e inviar",
+          "value": "Il pulsante apre una bozza nella tua app di posta. Puoi rileggerla e inviarla quando vuoi."
+        },
+        {
+          "index": 11,
+          "label": "Non inserire dati personali di minori o informazioni sensibili. I recapiti ",
+          "value": "Non inserire dati personali di minori o informazioni sensibili. I recapiti sono usati soltanto nel messaggio che decidi di inviare."
+        },
+        {
+          "index": 12,
+          "label": "Prima di una prova",
+          "value": "Prima di una prova"
+        },
+        {
+          "index": 13,
+          "label": "Sì. Puoi avvicinarti al coro anche partendo da zero. Nel primo messaggio pu",
+          "value": "Sì. Puoi avvicinarti al coro anche partendo da zero. Nel primo messaggio puoi raccontarci che è la tua prima esperienza e chiederci quando incontrare il gruppo."
+        },
+        {
+          "index": 14,
+          "label": "Puoi scriverci come genitore o tutore. Nel modulo seleziona l’opzione dedic",
+          "value": "Puoi scriverci come genitore o tutore. Nel modulo seleziona l’opzione dedicata, usa i tuoi recapiti e chiedi informazioni sulle attività per bambini o ragazzi."
+        },
+        {
+          "index": 15,
+          "label": "La corale è legata alla Chiesa Madre di San Cataldo. Prima di raggiungerci,",
+          "value": "La corale è legata alla Chiesa Madre di San Cataldo. Prima di raggiungerci, chiedi giorno, orario e sede della prossima prova attraverso i contatti della corale."
+        },
+        {
+          "index": 16,
+          "label": "Una voce nuovapotrebbe essere la tua.",
+          "value": "Una voce nuovapotrebbe essere la tua."
+        }
+      ],
+      "images": []
+    },
+    {
+      "route": "privacy.html",
+      "label": "Privacy",
+      "texts": [
+        {
+          "index": 0,
+          "label": "Informazioni legali",
+          "value": "Informazioni legali"
+        },
+        {
+          "index": 1,
+          "label": "Trasparenza,prima di tutto.",
+          "value": "Trasparenza,prima di tutto."
+        },
+        {
+          "index": 2,
+          "label": "Come funzionano il primo contatto, le immagini dell’archivio e il video del",
+          "value": "Come funzionano il primo contatto, le immagini dell’archivio e il video del coro."
+        },
+        {
+          "index": 3,
+          "label": "Quando ci scrivi",
+          "value": "Quando ci scrivi"
+        },
+        {
+          "index": 4,
+          "label": "I campi della pagina Partecipa vengono elaborati nel tuo browser per compor",
+          "value": "I campi della pagina Partecipa vengono elaborati nel tuo browser per comporre un’email. Il sito non salva le risposte. Quando confermi l’invio nella tua app di posta, il messaggio arriva a info@madrice.it, casella della segreteria parrocchiale. Per una richiesta relativa a un minore, usa i recapiti di un genitore o tutore."
+        },
+        {
+          "index": 5,
+          "label": "Foto, caratteri e video",
+          "value": "Foto, caratteri e video"
+        },
+        {
+          "index": 6,
+          "label": "Il sito carica i caratteri da Google Fonts e le fotografie di stampa dai si",
+          "value": "Il sito carica i caratteri da Google Fonts e le fotografie di stampa dai siti degli editori. Il browser contatta questi servizi per visualizzare i contenuti. Il logo e la locandina della terza rassegna sono ospitati sul sito. Il lettore video di Facebook viene caricato solo quando selezioni «Carica il video»."
+        },
+        {
+          "index": 7,
+          "label": "Informazioni sui materiali",
+          "value": "Informazioni sui materiali"
+        },
+        {
+          "index": 8,
+          "label": "Le schede rimandano agli autori e alle pubblicazioni originali. Per chieder",
+          "value": "Le schede rimandano agli autori e alle pubblicazioni originali. Per chiedere una correzione o segnalare un’immagine puoi contattare l’associazione dalla pagina dei contatti."
+        },
+        {
+          "index": 9,
+          "label": "Esplora",
+          "value": "Esplora"
+        },
+        {
+          "index": 10,
+          "label": "Rimani in contatto",
+          "value": "Rimani in contatto"
+        },
+        {
+          "index": 11,
+          "label": "p",
+          "value": ""
+        }
+      ],
+      "images": [
+        {
+          "index": 0,
+          "label": "Immagine",
+          "image": "",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "route": "sostienici.html",
+      "label": "Sostienici",
+      "texts": [
+        {
+          "index": 0,
+          "label": "Sostienici",
+          "value": "Sostienici"
+        },
+        {
+          "index": 1,
+          "label": "Aiutaci a farrisuonare il futuro.",
+          "value": "Aiutaci a farrisuonare il futuro."
+        },
+        {
+          "index": 2,
+          "label": "La musica cresce grazie alle persone che decidono di esserci. Anche quando ",
+          "value": "La musica cresce grazie alle persone che decidono di esserci. Anche quando non salgono sul palco."
+        },
+        {
+          "index": 3,
+          "label": "Una comunità che sostiene",
+          "value": "Una comunità che sostiene"
+        },
+        {
+          "index": 4,
+          "label": "Un piccolo gesto puòaprire molte porte.",
+          "value": "Un piccolo gesto puòaprire molte porte."
+        },
+        {
+          "index": 5,
+          "label": "Ecclesia Mater desidera coinvolgere persone, imprese e realtà del territori",
+          "value": "Ecclesia Mater desidera coinvolgere persone, imprese e realtà del territorio che condividono il valore culturale e sociale del canto."
+        },
+        {
+          "index": 6,
+          "label": "Tempo e competenze",
+          "value": "Tempo e competenze"
+        },
+        {
+          "index": 7,
+          "label": "Supporto organizzativo, comunicazione, allestimenti e disponibilità durante",
+          "value": "Supporto organizzativo, comunicazione, allestimenti e disponibilità durante eventi e concerti."
+        },
+        {
+          "index": 8,
+          "label": "Collaborazioni",
+          "value": "Collaborazioni"
+        },
+        {
+          "index": 9,
+          "label": "Partenariati con scuole, enti culturali, associazioni, imprese e istituzion",
+          "value": "Partenariati con scuole, enti culturali, associazioni, imprese e istituzioni interessate a nuove iniziative."
+        },
+        {
+          "index": 10,
+          "label": "Contributi e risorse",
+          "value": "Contributi e risorse"
+        },
+        {
+          "index": 11,
+          "label": "Per progetti artistici, percorsi corali ed eventi aperti al territorio. Le ",
+          "value": "Per progetti artistici, percorsi corali ed eventi aperti al territorio. Le modalità saranno definite direttamente dall’associazione."
+        },
+        {
+          "index": 12,
+          "label": "Vuoi sostenerci?",
+          "value": "Vuoi sostenerci?"
+        },
+        {
+          "index": 13,
+          "label": "Scrivici per proporre una collaborazione o conoscere le modalità di sostegn",
+          "value": "Scrivici per proporre una collaborazione o conoscere le modalità di sostegno."
+        },
+        {
+          "index": 14,
+          "label": "Una voce nuovapotrebbe essere la tua.",
+          "value": "Una voce nuovapotrebbe essere la tua."
+        }
+      ],
+      "images": []
+    }
+  ]
+}
