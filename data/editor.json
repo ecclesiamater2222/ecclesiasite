@@ -1,8 +1,6 @@
 {
-  "contact_email": "info@madrice.it",
+  "contact_email": "ecclesiamateraps@gmail.com",
   "facebook": "https://www.facebook.com/p/Associazione-Ecclesia-Mater-61557062860610/",
-  "instagram": "",
-  "youtube": "",
   "pages": [
     {
       "route": "chi-siamo.html",
@@ -118,7 +116,6 @@
         {
           "index": 0,
           "label": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali",
-          "image": "",
           "alt": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali"
         }
       ]
@@ -182,8 +179,7 @@
           "label": "Una voce nuovapotrebbe essere la tua.",
           "value": "Una voce nuovapotrebbe essere la tua."
         }
-      ],
-      "images": []
+      ]
     },
     {
       "route": "eventi.html",
@@ -289,37 +285,31 @@
         {
           "index": 0,
           "label": "Ragusa InCanto — V rassegna",
-          "image": "",
           "alt": "Ragusa InCanto — V rassegna"
         },
         {
           "index": 1,
           "label": "Locandina del Festival a Cori Uniti, terza rassegna di voci bianche, 15 dicembre 2025 alle 19.30, Chiesa Madre di San Cataldo",
-          "image": "",
           "alt": "Locandina del Festival a Cori Uniti, terza rassegna di voci bianche, 15 dicembre 2025 alle 19.30, Chiesa Madre di San Cataldo"
         },
         {
           "index": 2,
           "label": "Giubileo delle Corali",
-          "image": "",
           "alt": "Giubileo delle Corali"
         },
         {
           "index": 3,
           "label": "Festival a Cori Uniti — II edizione",
-          "image": "",
           "alt": "Festival a Cori Uniti — II edizione"
         },
         {
           "index": 4,
           "label": "Festival a Cuori Uniti — I edizione",
-          "image": "",
           "alt": "Festival a Cuori Uniti — I edizione"
         },
         {
           "index": 5,
           "label": "Una celebrazione in diretta su Canale 5",
-          "image": "",
           "alt": "Una celebrazione in diretta su Canale 5"
         }
       ]
@@ -448,55 +438,46 @@
         {
           "index": 0,
           "label": "Locandina del Festival a Cori Uniti, terza rassegna di voci bianche, 15 dicembre 2025 alle 19.30, Chiesa Madre di San Cataldo",
-          "image": "",
           "alt": "Locandina del Festival a Cori Uniti, terza rassegna di voci bianche, 15 dicembre 2025 alle 19.30, Chiesa Madre di San Cataldo"
         },
         {
           "index": 1,
           "label": "Momento finale della rassegna, immagine collettiva — Ragusa InCanto — V rassegna corale",
-          "image": "",
           "alt": "Momento finale della rassegna, immagine collettiva — Ragusa InCanto — V rassegna corale"
         },
         {
           "index": 2,
           "label": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali",
-          "image": "",
           "alt": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali"
         },
         {
           "index": 3,
           "label": "Locandina della II edizione — Festival a Cori Uniti — II edizione",
-          "image": "",
           "alt": "Locandina della II edizione — Festival a Cori Uniti — II edizione"
         },
         {
           "index": 4,
           "label": "Locandina della rassegna 2023 — Festival a Cuori Uniti — I edizione",
-          "image": "",
           "alt": "Locandina della rassegna 2023 — Festival a Cuori Uniti — I edizione"
         },
         {
           "index": 5,
           "label": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
-          "image": "",
           "alt": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
         },
         {
           "index": 6,
           "label": "Fotografia 2 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
-          "image": "",
           "alt": "Fotografia 2 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
         },
         {
           "index": 7,
           "label": "Fotografia 3 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
-          "image": "",
           "alt": "Fotografia 3 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
         },
         {
           "index": 8,
           "label": "La Corale Ecclesia Mater durante l'esperienza ad Altavilla Milicia",
-          "image": "",
           "alt": "La Corale Ecclesia Mater durante l'esperienza ad Altavilla Milicia"
         }
       ]
@@ -635,43 +616,36 @@
         {
           "index": 0,
           "label": "La Corale Ecclesia Mater riunita in una chiesa, fotografia pubblicata dal Fatto Nisseno",
-          "image": "",
           "alt": "La Corale Ecclesia Mater riunita in una chiesa, fotografia pubblicata dal Fatto Nisseno"
         },
         {
           "index": 1,
           "label": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
-          "image": "",
           "alt": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
         },
         {
           "index": 2,
           "label": "Fotografia 3 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
-          "image": "",
           "alt": "Fotografia 3 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
         },
         {
           "index": 3,
           "label": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali",
-          "image": "",
           "alt": "Fotografia della corale pubblicata a corredo della notizia — Giubileo delle Corali"
         },
         {
           "index": 4,
           "label": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia",
-          "image": "",
           "alt": "Fotografia 1 pubblicata nell’articolo — Messa al Santuario Madonna della Milicia"
         },
         {
           "index": 5,
           "label": "Locandina della rassegna 2023 — Festival a Cuori Uniti — I edizione",
-          "image": "",
           "alt": "Locandina della rassegna 2023 — Festival a Cuori Uniti — I edizione"
         },
         {
           "index": 6,
           "label": "Momento finale della rassegna, immagine collettiva — Ragusa InCanto — V rassegna corale",
-          "image": "",
           "alt": "Momento finale della rassegna, immagine collettiva — Ragusa InCanto — V rassegna corale"
         }
       ]
@@ -765,8 +739,7 @@
           "label": "Una voce nuovapotrebbe essere la tua.",
           "value": "Una voce nuovapotrebbe essere la tua."
         }
-      ],
-      "images": []
+      ]
     },
     {
       "route": "privacy.html",
@@ -829,16 +802,13 @@
         },
         {
           "index": 11,
-          "label": "p",
-          "value": ""
+          "label": "p"
         }
       ],
       "images": [
         {
           "index": 0,
-          "label": "Immagine",
-          "image": "",
-          "alt": ""
+          "label": "Immagine"
         }
       ]
     },
@@ -921,8 +891,7 @@
           "label": "Una voce nuovapotrebbe essere la tua.",
           "value": "Una voce nuovapotrebbe essere la tua."
         }
-      ],
-      "images": []
+      ]
     }
   ]
 }
