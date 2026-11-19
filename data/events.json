@@ -1,0 +1,119 @@
+[
+  {
+    "id": "evento-2025-ragusa",
+    "date": "29 novembre 2025",
+    "label": "RAGUSA · INCONTRO CORALE",
+    "title": "Ragusa InCanto — V rassegna",
+    "descr": "La Corale Ecclesia Mater partecipa alla rassegna promossa da Cantus Novo nella Cattedrale di San Giovanni Battista a Ragusa. La fotografia è del momento finale collettivo.",
+    "state": "Manifestazione documentata dalla stampa",
+    "img": {
+      "evento": "Ragusa InCanto — V rassegna corale",
+      "data": "29 novembre 2025 · rassegna documentata",
+      "tipo": "foto/locandina",
+      "descrizione": "Momento finale della rassegna, immagine collettiva",
+      "url_immagine": "https://www.giornaleibleo.it/wp-content/uploads/2025/12/Il-momento-finale-con-il-Cantate-dominum-2048x1536.jpg",
+      "url_fonte": "https://www.giornaleibleo.it/2025/12/04/ragusa-grande-successo-per-la-quinta-edizione-della-rassegna-corale-promossa-da-cantus-novo/",
+      "stato_diritti": "Da verificare con titolare; uso in report di ricerca, non autorizzazione alla pubblicazione"
+    },
+    "href": "https://www.giornaleibleo.it/2025/12/04/ragusa-grande-successo-per-la-quinta-edizione-della-rassegna-corale-promossa-da-cantus-novo/",
+    "year": "2025"
+  },
+  {
+    "id": "evento-2025-festival",
+    "date": "15 dicembre 2025",
+    "label": "SAN CATALDO · VOCI BIANCHE",
+    "title": "Festival a Cori Uniti — III edizione",
+    "descr": "La terza edizione della rassegna di voci bianche presso la Chiesa Madre è annunciata dalla stampa locale, con la partecipazione prevista di 170 bambini.",
+    "state": "Annuncio pubblico dell’evento",
+    "img": null,
+    "href": "https://www.ilfattonisseno.it/2025/12/san-cataldo-il-15-dicembre-presso-la-chiesa-madre-3-edizione-della-rassegna-corale-di-voci-bianche-festival-a-cori-uniti/",
+    "year": "2025"
+  },
+  {
+    "id": "evento-2025-giubileo",
+    "date": "aprile 2025 · annuncio",
+    "label": "ROMA · INIZIATIVE CORALI",
+    "title": "Giubileo delle Corali",
+    "descr": "Una notizia del 2025 annuncia la partecipazione della corale al Giubileo delle Corali. La fotografia allegata è un ritratto del gruppo e non prova che sia stata scattata a Roma.",
+    "state": "Notizia di partecipazione futura",
+    "img": {
+      "evento": "Giubileo delle Corali",
+      "data": "Aprile 2025 · notizia di partecipazione futura",
+      "tipo": "foto/locandina",
+      "descrizione": "Fotografia della corale pubblicata a corredo della notizia",
+      "url_immagine": "https://www.ilfattonisseno.it/wp-content/uploads/2025/04/474476568_122198673974235428_7777378044512288891_n.jpg",
+      "url_fonte": "https://www.ilfattonisseno.it/2025/04/san-cataldo-la-corale-ecclesia-mater-partecipera-al-giubileo-delle-corali-a-roma/",
+      "stato_diritti": "Da verificare con titolare; uso in report di ricerca, non autorizzazione alla pubblicazione"
+    },
+    "href": "https://www.ilfattonisseno.it/2025/04/san-cataldo-la-corale-ecclesia-mater-partecipera-al-giubileo-delle-corali-a-roma/",
+    "year": "2025"
+  },
+  {
+    "id": "evento-2024-festival",
+    "date": "14 dicembre 2024",
+    "label": "SAN CATALDO · VOCI BIANCHE",
+    "title": "Festival a Cori Uniti — II edizione",
+    "descr": "La seconda edizione della rassegna di voci bianche, ospitata nella Chiesa Madre, viene annunciata con cinque cori e 150 bambini attesi.",
+    "state": "Annuncio pubblico dell’evento",
+    "img": {
+      "evento": "Festival a Cori Uniti — II edizione",
+      "data": "14 dicembre 2024 · evento annunciato",
+      "tipo": "foto/locandina",
+      "descrizione": "Locandina della II edizione",
+      "url_immagine": "https://www.ilfattonisseno.it/wp-content/uploads/2024/11/468467186_122186329046235428_9221292707791171968_n-388x550.jpg",
+      "url_fonte": "https://www.ilfattonisseno.it/2024/11/san-cataldo-il-14-dicembre-alla-chiesa-madre-2-edizione-della-rassegna-corale-di-voci-bianche-festival-a-cori-uniti/",
+      "stato_diritti": "Da verificare con titolare; uso in report di ricerca, non autorizzazione alla pubblicazione"
+    },
+    "href": "https://www.ilfattonisseno.it/2024/11/san-cataldo-il-14-dicembre-alla-chiesa-madre-2-edizione-della-rassegna-corale-di-voci-bianche-festival-a-cori-uniti/",
+    "year": "2024"
+  },
+  {
+    "id": "evento-2023-festival",
+    "date": "7 settembre 2023",
+    "label": "SAN CATALDO · VOCI BIANCHE",
+    "title": "Festival a Cuori Uniti — I edizione",
+    "descr": "Prima rassegna corale dedicata alle voci bianche, con sette cori provenienti da realtà scolastiche e associative del territorio.",
+    "state": "Evento annunciato e documentato da più fonti",
+    "img": {
+      "evento": "Festival a Cuori Uniti — I edizione",
+      "data": "7 settembre 2023 · evento annunciato",
+      "tipo": "foto/locandina",
+      "descrizione": "Locandina della rassegna 2023",
+      "url_immagine": "https://www.rcsradio.it/wp-content/uploads/2023/09/Copertina-4-9-2023-Coro-San-Cataldo.jpg",
+      "url_fonte": "https://www.rcsradio.it/2023/09/04/a-san-cataldo-la-prima-rassegna-corale-di-voci-bianche/",
+      "stato_diritti": "Da verificare con titolare; uso in report di ricerca, non autorizzazione alla pubblicazione"
+    },
+    "href": "https://www.rcsradio.it/2023/09/04/a-san-cataldo-la-prima-rassegna-corale-di-voci-bianche/",
+    "year": "2023"
+  },
+  {
+    "id": "evento-2022-natale",
+    "date": "29 dicembre 2022 · programma",
+    "label": "SAN CATALDO · CONCERTO NATALIZIO",
+    "title": "È ancora Natale",
+    "descr": "Il programma presentato dall’associazione prevede l’incontro fra Piccole voci Ecclesia Mater, corale polifonica e orchestra di fiati Santa Cecilia nella Chiesa Madre.",
+    "state": "Programma documentato nel fascicolo ministeriale; esecuzione da verificare",
+    "img": null,
+    "href": "https://spettacolo.cultura.gov.it/wp-content/uploads/2022/12/Allegato-n.-1-al-verbale-n.-11-del-2022-1.pdf",
+    "year": "2022"
+  },
+  {
+    "id": "evento-2022-altavilla",
+    "date": "25 settembre 2022",
+    "label": "ALTAVILLA MILICIA · CELEBRAZIONE",
+    "title": "Una celebrazione in diretta su Canale 5",
+    "descr": "La Corale Ecclesia Mater anima la Santa Messa presso il Santuario della Madonna della Milicia, trasmessa su Canale 5. Tre fotografie dell’esperienza sono pubblicate da Il Fatto Nisseno.",
+    "state": "Celebrazione documentata",
+    "img": {
+      "evento": "Messa al Santuario Madonna della Milicia",
+      "data": "25 settembre 2022 · celebrazione documentata",
+      "tipo": "foto/locandina",
+      "descrizione": "Fotografia 1 pubblicata nell’articolo",
+      "url_immagine": "https://www.ilfattonisseno.it/wp-content/uploads/2022/09/308807890_5860717310628549_5563564334186956267_n.jpg",
+      "url_fonte": "https://www.ilfattonisseno.it/2022/09/san-cataldo-emozionante-esperienza-per-la-corale-ecclesia-mater-ad-altavilla-milicia-in-diretta-su-canale-5/",
+      "stato_diritti": "Da verificare con titolare; uso in report di ricerca, non autorizzazione alla pubblicazione"
+    },
+    "href": "https://www.ilfattonisseno.it/2022/09/san-cataldo-emozionante-esperienza-per-la-corale-ecclesia-mater-ad-altavilla-milicia-in-diretta-su-canale-5/",
+    "year": "2022"
+  }
+]
