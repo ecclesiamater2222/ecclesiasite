@@ -1,0 +1,21 @@
+/* Ecclesia Mater — funzioni del prototipo. Non invia richieste sul server. */
+(()=>{
+  'use strict';
+  const menuBtn=document.querySelector('.nav-toggle');
+  const menu=document.querySelector('.nav-main');
+  const closeMenu=()=>{if(menu&&menuBtn){menu.classList.remove('open');menuBtn.setAttribute('aria-expanded','false');menuBtn.setAttribute('aria-label','Apri il menu')}};
+  if(menu&&menuBtn){menuBtn.addEventListener('click',()=>{const isOpen=menu.classList.toggle('open');menuBtn.setAttribute('aria-expanded',String(isOpen));menuBtn.setAttribute('aria-label',isOpen?'Chiudi il menu':'Apri il menu')});menu.addEventListener('click',e=>{if(e.target.closest('a'))closeMenu()});document.addEventListener('keydown',e=>{if(e.key==='Escape')closeMenu()})}
+  document.querySelectorAll('.filter-options').forEach(group=>{const buttons=[...group.querySelectorAll('[data-filter-year]')];buttons.forEach(btn=>btn.addEventListener('click',()=>{const val=btn.dataset.filterYear;buttons.forEach(x=>{const hit=x===btn;x.classList.toggle('selected',hit);x.setAttribute('aria-pressed',String(hit))});document.querySelectorAll('.timeline-card[data-year],.media-event[data-year]').forEach(card=>{card.hidden=(val!=='tutti'&&card.dataset.year!==val)})}))});
+  const dlg=document.querySelector('#image-modal');
+  if(dlg&&typeof dlg.showModal==='function'){
+    const picture=dlg.querySelector('img');const caption=dlg.querySelector('p');
+    document.querySelectorAll('a.lightbox-link').forEach(link=>link.addEventListener('click',e=>{e.preventDefault();picture.src=link.href;picture.alt=link.querySelector('img')?.alt||'Fotografia';caption.textContent=link.dataset.title||'';dlg.showModal()}));
+    dlg.querySelector('.modal-close')?.addEventListener('click',()=>dlg.close());
+    dlg.addEventListener('click',e=>{if(e.target===dlg)dlg.close()});
+    dlg.addEventListener('close',()=>{picture.removeAttribute('src')});
+  }
+  document.querySelectorAll('[data-purpose]').forEach(link=>link.addEventListener('click',()=>{const el=document.querySelector('#topic');if(el)el.value=link.dataset.purpose}));
+  const join=document.querySelector('#join-form');
+  if(join){const desired=new URLSearchParams(location.search).get('interesse');if(desired&&[...join.querySelector('#topic').options].some(o=>o.value===desired))join.querySelector('#topic').value=desired;join.addEventListener('submit',e=>{e.preventDefault();const status=document.querySelector('#form-status');const name=join.querySelector('#fullname');const email=join.querySelector('#email');const topic=join.querySelector('#topic');const audience=join.querySelector('#audience');const message=join.querySelector('#message');const valid=name.value.trim().length>=2&&email.validity.valid&&email.value.trim();status.className='form-status';if(!valid){status.classList.add('error');status.textContent='Inserisci nome e un indirizzo email valido per preparare il messaggio.';(name.value.trim().length<2?name:email).focus();return}const subject=`Per la Corale Ecclesia Mater — ${topic.value}`;const body=`Buongiorno,\n\nVorrei chiedere informazioni riguardo: ${topic.value}.\n\nNome: ${name.value.trim()}\nEmail di risposta: ${email.value.trim()}\nTipologia di richiesta: ${audience.value}\n\n${message.value.trim()}\n\nCordiali saluti.`;status.classList.add('success');status.textContent='Messaggio preparato. Si aprirà il tuo programma di posta elettronica: verifica il destinatario e premi Invia per spedirlo.';location.href=`mailto:info@madrice.it?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`})}
+  document.querySelectorAll('.video-load').forEach(btn=>btn.addEventListener('click',()=>{const u=btn.dataset.videoUrl;const box=btn.closest('.video-preview');if(!u||!box)return;const frame=document.createElement('iframe');frame.src='https://www.facebook.com/plugins/video.php?href='+encodeURIComponent(u)+'&show_text=false&width=560';frame.title='Video Facebook — Il canto del mare, con la Corale Ecclesia Mater';frame.loading='lazy';frame.allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share';frame.allowFullscreen=true;frame.referrerPolicy='strict-origin-when-cross-origin';frame.className='video-frame';box.replaceChildren(frame)}))
+})();
