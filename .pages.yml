@@ -1,0 +1,140 @@
+{
+  "media": {
+    "input": "media",
+    "output": "/media",
+    "extensions": [
+      "jpg",
+      "jpeg",
+      "png",
+      "webp"
+    ],
+    "rename": "safe"
+  },
+  "content": [
+    {
+      "name": "website",
+      "label": "Modifica sito",
+      "type": "file",
+      "path": "data/editor.json",
+      "format": "json",
+      "fields": [
+        {
+          "name": "contact_email",
+          "label": "Email per le richieste",
+          "type": "string"
+        },
+        {
+          "name": "facebook",
+          "label": "Pagina Facebook (URL)",
+          "type": "string"
+        },
+        {
+          "name": "instagram",
+          "label": "Profilo Instagram (URL)",
+          "type": "string"
+        },
+        {
+          "name": "youtube",
+          "label": "Canale YouTube (URL)",
+          "type": "string"
+        },
+        {
+          "name": "pages",
+          "label": "Pagine",
+          "type": "object",
+          "list": {
+            "collapsible": {
+              "collapsed": true,
+              "summary": "{label}"
+            }
+          },
+          "fields": [
+            {
+              "name": "route",
+              "label": "Pagina",
+              "type": "string",
+              "hidden": true
+            },
+            {
+              "name": "label",
+              "label": "Nome pagina",
+              "type": "string",
+              "readonly": true
+            },
+            {
+              "name": "texts",
+              "label": "Testi",
+              "type": "object",
+              "list": {
+                "collapsible": {
+                  "collapsed": true,
+                  "summary": "{label}"
+                }
+              },
+              "fields": [
+                {
+                  "name": "index",
+                  "label": "Riferimento",
+                  "type": "number",
+                  "hidden": true
+                },
+                {
+                  "name": "label",
+                  "label": "Sezione",
+                  "type": "string",
+                  "readonly": true
+                },
+                {
+                  "name": "value",
+                  "label": "Testo",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "name": "images",
+              "label": "Immagini",
+              "type": "object",
+              "list": {
+                "collapsible": {
+                  "collapsed": true,
+                  "summary": "{label}"
+                }
+              },
+              "fields": [
+                {
+                  "name": "index",
+                  "label": "Riferimento",
+                  "type": "number",
+                  "hidden": true
+                },
+                {
+                  "name": "label",
+                  "label": "Posizione",
+                  "type": "string",
+                  "readonly": true
+                },
+                {
+                  "name": "image",
+                  "label": "Sostituisci immagine",
+                  "type": "image",
+                  "description": "Lascia vuoto per mantenere la fotografia attuale."
+                },
+                {
+                  "name": "alt",
+                  "label": "Descrizione accessibile",
+                  "type": "string"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "content": {
+      "merge": true
+    }
+  }
+}
